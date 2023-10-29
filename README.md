@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=5000&pause=1000&color=FFFFFF&background=1E42FF00&center=true&width=435&lines=axxelet)](https://guns.lol/cats)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&pause=1000&color=000500&background=1E42FF00&center=true&width=435&lines=Github.com%2Faxxelet)](https://guns.lol/cats)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&pause=1000&color=FFFFFF&background=1E42FF00&center=true&width=435&lines=Github.com%2Faxxelet)](https://guns.lol/cats)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
