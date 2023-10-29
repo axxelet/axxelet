@@ -18,9 +18,7 @@
    [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1009909324010749954) 
  
  ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
-  
-
- <br><br>
+   <br><br>
 <p>👀 &nbsp;Visitors</p>
  <br>
 <img align="left" src="https://profile-counter.glitch.me/axxelet/count.svg" />
