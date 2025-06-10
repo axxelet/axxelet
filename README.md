@@ -6,7 +6,7 @@
 
 > ### ⚙️ Discord Status: 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1009909324010749954)](https://discord.com/users/1009909324010749954)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1009909324010749954?hideActivity=true)](https://discord.com/users/1009909324010749954)
 
 <hr>
 
